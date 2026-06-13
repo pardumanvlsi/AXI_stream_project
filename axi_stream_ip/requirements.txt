@@ -1,0 +1,4 @@
+# Python toolchain for figure generation
+matplotlib>=3.6
+numpy>=1.23
+pillow>=9.0
